@@ -1,0 +1,27 @@
+header {
+    background-color: rgb(56, 56, 56);
+    padding: 10px;
+    height: 60px;
+    color: white;
+
+    img {
+        height: 40px;
+        width: auto;
+    }
+
+    nav {
+        ul {
+            width: 40px;
+            display: flex;
+            justify-content: center;
+
+            li {
+                display: inline-block;
+                margin-left: 10px;
+            }
+        }
+    }
+}
+
+
+
