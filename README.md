@@ -1,6 +1,6 @@
 # 🖥️ Iniciando com React
 
-Bem-vindo ao meu projeto "Iniciando com React"! Este repositório contém um exemplo básico de uma aplicação React para ajudá-lo a dar os primeiros passos nesse incrível framework.
+Bem-vindo ao meu projeto "Iniciando com React"! Este repositório contém um exemplo básico de uma aplicação React para me ajudar a dar meus primeiros passos nesse framework.
 
 ## 🚀 Sobre o Projeto
 
