@@ -1,0 +1,19 @@
+nav {
+    ul {
+        width: 40px;
+        display: flex;
+        justify-content: center;
+
+        li {
+            display: inline-block;
+            margin-left: 10px;
+            a{
+                color: rgb(215, 214, 214);
+                &.ativo{
+                    color: white;
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
