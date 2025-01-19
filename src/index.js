@@ -1,6 +1,7 @@
 import React from 'react';
 
 import './assets/scss/sb-admin-2.scss';
+import './assets/scss/dfe-react.scss'; // meu css
 
 import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
