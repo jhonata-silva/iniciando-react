@@ -29,7 +29,7 @@ function Sidebar({ menuAtivo = "Home" }) {
             </div>
 
             <li className={menuAtivo !== "home" ? "nav-item active" : "nav-item"}>
-                <a className={ menuAtivo !== "home"? "nav-link" : "nav-link collapsed" } href="#" data-bs-toggle="collapse" data-bs-target="#OutrosLinks" data-toggle="collapse" data-target="#OutrosLinks"
+                <a className={ menuAtivo !== "home"? "nav-link" : "nav-link collapsed" } href="javascript:void(0)" data-bs-toggle="collapse" data-bs-target="#OutrosLinks" data-toggle="collapse" data-target="#OutrosLinks"
                     aria-expanded="true" aria-controls="collapseTwo">
                     <i className="fas fa-fw fa-folder"></i>
                     <span>Outros Links</span>
